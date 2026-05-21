@@ -1,0 +1,153 @@
+[2026-05-19 17:16:53] observer: StatisticsPanel получил событие: Ресурс wood изменился: -2, всего 8
+[2026-05-19 17:16:53] observer: StatisticsPanel получил событие: Ресурс stone изменился: -1, всего 4
+[2026-05-19 17:16:53] command: Иван выполнил команду BuildCommand
+[2026-05-19 17:16:53] state: Иван: work, hunger=10, energy=95, stress=0
+[2026-05-19 17:16:53] observer: StatisticsPanel получил событие: Ресурс food изменился: +2, всего 22
+[2026-05-19 17:16:53] command: Мария выполнил команду FarmCommand
+[2026-05-19 17:16:53] state: Мария: work, hunger=10, energy=95, stress=0
+[2026-05-19 17:16:53] observer: StatisticsPanel получил событие: Ресурс food изменился: +4, всего 26
+[2026-05-19 17:16:53] command: Олег выполнил команду HuntCommand
+[2026-05-19 17:16:53] state: Олег: work, hunger=10, energy=87, stress=0
+[2026-05-19 17:16:53] observer: StatisticsPanel получил событие: Ресурс stone изменился: +2, всего 6
+[2026-05-19 17:16:53] command: Джон выполнил команду DestroyCommand
+[2026-05-19 17:16:53] state: Джон: work, hunger=10, energy=95, stress=0
+[2026-05-19 17:16:53] observer: StatisticsPanel получил событие: Ресурс wood изменился: +3, всего 11
+[2026-05-19 17:16:53] command: Анна выполнил команду GatherWoodCommand
+[2026-05-19 17:16:53] state: Анна: work, hunger=10, energy=95, stress=0
+[2026-05-19 17:21:10] template_method: Сгенерирован элемент: Creature(name='Сгенерированный житель', profession='фермер', state='idle')
+[2026-05-19 17:21:10] template_method: Сгенерирован элемент: Building(name='Склад', state='working', progress=10)
+[2026-05-19 17:21:10] template_method: Сгенерирован элемент: Task(type='build', priority=2, status='generated', progress=0)
+[2026-05-19 17:23:30] observer: StatisticsPanel получил событие: Ресурс wood изменился: -2, всего 8
+[2026-05-19 17:23:30] observer: StatisticsPanel получил событие: Ресурс stone изменился: -1, всего 4
+[2026-05-19 17:23:30] command: Иван выполнил команду BuildCommand
+[2026-05-19 17:23:30] state: Иван: work, hunger=10, energy=95, stress=0
+[2026-05-19 17:23:30] observer: StatisticsPanel получил событие: Ресурс food изменился: +2, всего 22
+[2026-05-19 17:23:30] command: Мария выполнил команду FarmCommand
+[2026-05-19 17:23:30] state: Мария: work, hunger=10, energy=95, stress=0
+[2026-05-19 17:23:30] observer: StatisticsPanel получил событие: Ресурс food изменился: +4, всего 26
+[2026-05-19 17:23:30] command: Олег выполнил команду HuntCommand
+[2026-05-19 17:23:30] state: Олег: work, hunger=10, energy=87, stress=0
+[2026-05-19 17:23:30] observer: StatisticsPanel получил событие: Ресурс stone изменился: +2, всего 6
+[2026-05-19 17:23:30] command: Джон выполнил команду DestroyCommand
+[2026-05-19 17:23:30] state: Джон: work, hunger=10, energy=95, stress=0
+[2026-05-19 17:23:30] observer: StatisticsPanel получил событие: Ресурс wood изменился: +3, всего 11
+[2026-05-19 17:23:30] command: Анна выполнил команду GatherWoodCommand
+[2026-05-19 17:23:30] state: Анна: work, hunger=10, energy=95, stress=0
+[2026-05-19 17:23:30] observer: StatisticsPanel получил событие: Ресурс food изменился: +2, всего 28
+[2026-05-19 17:23:30] command: Сгенерированный житель выполнил команду FarmCommand
+[2026-05-19 17:23:30] state: Сгенерированный житель: work, hunger=15, energy=85, stress=0
+[2026-05-19 17:52:46] proxy: BuildingProxy загрузил RealBuilding: Ферма
+[2026-05-19 17:52:46] facade: Фасад разместил здание Ферма в состоянии economy_mode
+[2026-05-19 17:55:30] observer: StatisticsPanel получил событие: Ресурс wood изменился: -2, всего 9
+[2026-05-19 17:55:30] observer: StatisticsPanel получил событие: Ресурс stone изменился: -1, всего 5
+[2026-05-19 17:55:30] command: Иван выполнил команду BuildCommand
+[2026-05-19 17:55:30] state: Иван: work, hunger=20, energy=90, stress=5
+[2026-05-19 17:55:30] observer: StatisticsPanel получил событие: Ресурс food изменился: +2, всего 30
+[2026-05-19 17:55:30] command: Мария выполнил команду FarmCommand
+[2026-05-19 17:55:30] state: Мария: work, hunger=20, energy=90, stress=5
+[2026-05-19 17:55:30] observer: StatisticsPanel получил событие: Ресурс food изменился: +4, всего 34
+[2026-05-19 17:55:30] command: Олег выполнил команду HuntCommand
+[2026-05-19 17:55:30] state: Олег: work, hunger=20, energy=74, stress=5
+[2026-05-19 17:55:31] observer: StatisticsPanel получил событие: Ресурс stone изменился: +2, всего 7
+[2026-05-19 17:55:31] command: Джон выполнил команду DestroyCommand
+[2026-05-19 17:55:31] state: Джон: work, hunger=20, energy=90, stress=5
+[2026-05-19 17:55:31] observer: StatisticsPanel получил событие: Ресурс wood изменился: +3, всего 12
+[2026-05-19 17:55:31] command: Анна выполнил команду GatherWoodCommand
+[2026-05-19 17:55:31] state: Анна: work, hunger=20, energy=90, stress=5
+[2026-05-19 17:55:31] observer: StatisticsPanel получил событие: Ресурс food изменился: +2, всего 36
+[2026-05-19 17:55:31] command: Сгенерированный житель выполнил команду FarmCommand
+[2026-05-19 17:55:31] state: Сгенерированный житель: work, hunger=25, energy=80, stress=5
+[2026-05-19 17:55:31] observer: StatisticsPanel получил событие: Ресурс wood изменился: +3, всего 15
+[2026-05-19 17:55:31] command: Созданный фабричным методом выполнил команду GatherWoodCommand
+[2026-05-19 17:55:31] state: Созданный фабричным методом: work, hunger=10, energy=95, stress=0
+[2026-05-19 17:55:31] observer: StatisticsPanel получил событие: Ресурс wood изменился: -2, всего 13
+[2026-05-19 17:55:31] observer: StatisticsPanel получил событие: Ресурс stone изменился: -1, всего 6
+[2026-05-19 17:55:31] command: Фабричный строитель выполнил команду BuildCommand
+[2026-05-19 17:55:31] state: Фабричный строитель: work, hunger=10, energy=95, stress=0
+[2026-05-19 17:55:31] observer: StatisticsPanel получил событие: Ресурс food изменился: +2, всего 38
+[2026-05-19 17:55:31] command: Фабричный фермер выполнил команду FarmCommand
+[2026-05-19 17:55:31] state: Фабричный фермер: work, hunger=10, energy=95, stress=0
+[2026-05-19 17:55:31] observer: StatisticsPanel получил событие: Ресурс food изменился: +4, всего 42
+[2026-05-19 17:55:31] command: Фабричный охотник выполнил команду HuntCommand
+[2026-05-19 17:55:31] state: Фабричный охотник: work, hunger=10, energy=87, stress=0
+[2026-05-19 18:06:44] command: Задача guard выполнена через AssignTaskCommand
+[2026-05-19 18:06:44] command: Задача moveto выполнена через AssignTaskCommand
+[2026-05-19 18:06:44] command: Задача eatfood выполнена через AssignTaskCommand
+[2026-05-19 19:22:06] observer: StatisticsPanel получил событие: Ресурс wood изменился: -2, всего 11
+[2026-05-19 19:22:06] observer: StatisticsPanel получил событие: Ресурс stone изменился: -1, всего 5
+[2026-05-19 19:22:06] command: Иван выполнил команду BuildCommand
+[2026-05-19 19:22:06] state: Иван: work, hunger=30, energy=85, stress=10
+[2026-05-19 19:22:06] observer: StatisticsPanel получил событие: Ресурс food изменился: +2, всего 44
+[2026-05-19 19:22:06] command: Мария выполнил команду FarmCommand
+[2026-05-19 19:22:06] state: Мария: work, hunger=30, energy=85, stress=10
+[2026-05-19 19:22:07] observer: StatisticsPanel получил событие: Ресурс food изменился: +4, всего 48
+[2026-05-19 19:22:07] command: Олег выполнил команду HuntCommand
+[2026-05-19 19:22:07] state: Олег: work, hunger=30, energy=61, stress=10
+[2026-05-19 19:22:07] observer: StatisticsPanel получил событие: Ресурс stone изменился: +2, всего 7
+[2026-05-19 19:22:07] command: Джон выполнил команду DestroyCommand
+[2026-05-19 19:22:07] state: Джон: work, hunger=30, energy=85, stress=10
+[2026-05-19 19:22:07] observer: StatisticsPanel получил событие: Ресурс wood изменился: +3, всего 14
+[2026-05-19 19:22:07] command: Анна выполнил команду GatherWoodCommand
+[2026-05-19 19:22:07] state: Анна: work, hunger=30, energy=85, stress=10
+[2026-05-19 19:22:07] observer: StatisticsPanel получил событие: Ресурс food изменился: +2, всего 50
+[2026-05-19 19:22:07] command: Сгенерированный житель выполнил команду FarmCommand
+[2026-05-19 19:22:07] state: Сгенерированный житель: work, hunger=35, energy=75, stress=10
+[2026-05-19 19:22:07] observer: StatisticsPanel получил событие: Ресурс wood изменился: +3, всего 17
+[2026-05-19 19:22:07] command: Созданный фабричным методом выполнил команду GatherWoodCommand
+[2026-05-19 19:22:07] state: Созданный фабричным методом: work, hunger=20, energy=90, stress=5
+[2026-05-19 19:22:07] observer: StatisticsPanel получил событие: Ресурс wood изменился: -2, всего 15
+[2026-05-19 19:22:07] observer: StatisticsPanel получил событие: Ресурс stone изменился: -1, всего 6
+[2026-05-19 19:22:07] command: Фабричный строитель выполнил команду BuildCommand
+[2026-05-19 19:22:07] state: Фабричный строитель: work, hunger=20, energy=90, stress=5
+[2026-05-19 19:22:07] observer: StatisticsPanel получил событие: Ресурс food изменился: +2, всего 52
+[2026-05-19 19:22:07] command: Фабричный фермер выполнил команду FarmCommand
+[2026-05-19 19:22:07] state: Фабричный фермер: work, hunger=20, energy=90, stress=5
+[2026-05-19 19:22:07] observer: StatisticsPanel получил событие: Ресурс food изменился: +4, всего 56
+[2026-05-19 19:22:07] command: Фабричный охотник выполнил команду HuntCommand
+[2026-05-19 19:22:07] state: Фабричный охотник: work, hunger=20, energy=74, stress=5
+[2026-05-19 19:22:07] observer: StatisticsPanel получил событие: Ресурс wood изменился: +3, всего 18
+[2026-05-19 19:22:07] command: Созданный фабричным методом выполнил команду GatherWoodCommand
+[2026-05-19 19:22:07] state: Созданный фабричным методом: work, hunger=10, energy=95, stress=0
+[2026-05-19 19:22:07] observer: StatisticsPanel получил событие: Ресурс wood изменился: -2, всего 16
+[2026-05-19 19:22:07] observer: StatisticsPanel получил событие: Ресурс stone изменился: -1, всего 5
+[2026-05-19 19:22:07] command: Фабричный строитель выполнил команду BuildCommand
+[2026-05-19 19:22:07] state: Фабричный строитель: work, hunger=10, energy=95, stress=0
+[2026-05-19 19:22:07] observer: StatisticsPanel получил событие: Ресурс food изменился: +2, всего 58
+[2026-05-19 19:22:07] command: Фабричный фермер выполнил команду FarmCommand
+[2026-05-19 19:22:07] state: Фабричный фермер: work, hunger=10, energy=95, stress=0
+[2026-05-19 19:22:07] observer: StatisticsPanel получил событие: Ресурс food изменился: +4, всего 62
+[2026-05-19 19:22:07] command: Фабричный охотник выполнил команду HuntCommand
+[2026-05-19 19:22:07] state: Фабричный охотник: work, hunger=10, energy=87, stress=0
+[2026-05-20 10:57:16] observer: StatisticsPanel получил событие: Ресурс wood изменился: -2, всего 8
+[2026-05-20 10:57:16] observer: StatisticsPanel получил событие: Ресурс stone изменился: -1, всего 4
+[2026-05-20 10:57:16] command: Иван выполнил команду BuildCommand
+[2026-05-20 10:57:16] state: Иван: work, hunger=10, energy=95, stress=0
+[2026-05-20 10:57:16] observer: StatisticsPanel получил событие: Ресурс food изменился: +2, всего 22
+[2026-05-20 10:57:16] command: Мария выполнил команду FarmCommand
+[2026-05-20 10:57:16] state: Мария: work, hunger=10, energy=95, stress=0
+[2026-05-20 10:57:16] observer: StatisticsPanel получил событие: Ресурс food изменился: +4, всего 26
+[2026-05-20 10:57:16] command: Олег выполнил команду HuntCommand
+[2026-05-20 10:57:16] state: Олег: work, hunger=10, energy=87, stress=0
+[2026-05-20 10:57:16] observer: StatisticsPanel получил событие: Ресурс stone изменился: +2, всего 6
+[2026-05-20 10:57:16] command: Джон выполнил команду DestroyCommand
+[2026-05-20 10:57:16] state: Джон: work, hunger=10, energy=95, stress=0
+[2026-05-20 10:57:16] observer: StatisticsPanel получил событие: Ресурс wood изменился: +3, всего 11
+[2026-05-20 10:57:16] command: Анна выполнил команду GatherWoodCommand
+[2026-05-20 10:57:16] state: Анна: work, hunger=10, energy=95, stress=0
+[2026-05-20 10:57:16] observer: StatisticsPanel получил событие: Ресурс wood изменился: +3, всего 14
+[2026-05-20 10:57:16] command: Созданный фабричным методом выполнил команду GatherWoodCommand
+[2026-05-20 10:57:16] state: Созданный фабричным методом: work, hunger=10, energy=95, stress=0
+[2026-05-20 10:57:16] observer: StatisticsPanel получил событие: Ресурс wood изменился: -2, всего 12
+[2026-05-20 10:57:16] observer: StatisticsPanel получил событие: Ресурс stone изменился: -1, всего 5
+[2026-05-20 10:57:16] command: Фабричный строитель выполнил команду BuildCommand
+[2026-05-20 10:57:16] state: Фабричный строитель: work, hunger=10, energy=95, stress=0
+[2026-05-20 10:57:16] observer: StatisticsPanel получил событие: Ресурс food изменился: +2, всего 28
+[2026-05-20 10:57:16] command: Фабричный фермер выполнил команду FarmCommand
+[2026-05-20 10:57:16] state: Фабричный фермер: work, hunger=10, energy=95, stress=0
+[2026-05-20 10:57:16] observer: StatisticsPanel получил событие: Ресурс food изменился: +4, всего 32
+[2026-05-20 10:57:16] command: Фабричный охотник выполнил команду HuntCommand
+[2026-05-20 10:57:16] state: Фабричный охотник: work, hunger=10, energy=87, stress=0
+[2026-05-20 10:57:30] command: Задача guard выполнена через AssignTaskCommand
+[2026-05-20 10:57:30] command: Задача moveto выполнена через AssignTaskCommand
+[2026-05-20 10:57:30] command: Задача eatfood выполнена через AssignTaskCommand
+[2026-05-20 10:57:38] proxy: BuildingProxy загрузил RealBuilding: Клиентская ферма
